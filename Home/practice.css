@@ -1,0 +1,38 @@
+.bg{
+    background-image:url('https://png.pngtree.com/thumb_back/fh260/back_our/20190619/ourmid/pngtree-shopping-mall-supermarket-selection-merchandise-poster-background-material-image_133225.jpg');
+    height:100vh;
+    background-size: cover;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    
+    text-align:right;
+   
+
+}
+.h{
+    font-family:"Roboto";
+    color:black;
+}
+.p{
+    color:gray;
+}
+.bgs{
+    background-color:gray;
+
+}
+.img{
+    height:100px;
+    width:100px;
+}
+.card{
+    text-align:center;
+    padding:5px;
+    margin:5px;
+}
+
+.jumbotron{
+    text-align:center;
+}
